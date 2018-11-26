@@ -1,4 +1,9 @@
 # Notes
+# Going to bed since its midnight, i've found the password winter
+# And i just need a username to go along with it
+# Thinking of parsing the output from find / with a script
+# and trying to uncover user files
+# more likely its super easy to find a valid username and i'm just retarded
 
 PORT      STATE SERVICE
 # Got one flag, and a strange directory with nothing in it.
