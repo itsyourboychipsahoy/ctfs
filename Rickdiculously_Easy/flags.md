@@ -4,6 +4,9 @@
 # Thinking of parsing the output from find / with a script
 # and trying to uncover user files
 # more likely its super easy to find a valid username and i'm just retarded
+# Oh one more thing, its running vsftp 2.0.1-6 got this from
+# cat /etc/vsftpd/vsftpd_conf_migrate.sh
+# okay i should really go to bed now
 
 PORT      STATE SERVICE
 # Got one flag, and a strange directory with nothing in it.
