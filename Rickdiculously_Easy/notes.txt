@@ -32,8 +32,7 @@ PORT      STATE SERVICE
 # connected with ncat, got me a flag
 13337/tcp open  unknown
 
-# seems to be ssh over another port, don't know anything else though
-# od
+# ssh, got into with username: Summer password: winter
 22222/tcp open  easyengine
 
 # got me a broken reverse shell, and one flag
